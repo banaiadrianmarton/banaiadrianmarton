@@ -1,8 +1,6 @@
 # Hi there 👋
 **Köszöntelek a GitHub fiókomban**
 
-**banaiadrianmarton/banaiadrianmarton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 [Kedvenc oldalam](https://www.youtube.com/)
 ![Óriáskerék](apple-256261_1280.jpg)
