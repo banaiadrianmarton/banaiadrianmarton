@@ -1,7 +1,6 @@
 # Hi there 👋
 **Köszöntelek a GitHub fiókomban**
 
-Here are some ideas to get you started:
 [Kedvenc oldalam](https://www.youtube.com/)
 ![Óriáskerék](apple-256261_1280.jpg)
 - 🔭 I’m currently working on ...
